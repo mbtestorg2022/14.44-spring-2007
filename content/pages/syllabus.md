@@ -41,12 +41,57 @@ Grading
 
 The grading for the course will be as follows:
 
-| COMPONENTS | PERCENTAGES |
-| --- | --- |
-| Midterm Examination | 30% |
-| Final Examination | 40% |
-| Problem Sets | 20% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COMPONENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Examination
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Textbook
 --------
@@ -60,18 +105,147 @@ Many of you used this book in 14.01. If you used a previous edition you will fin
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction and Background {{< br >}}{{< br >}} Review of the Basics of Supply, Demand and Price Formation in Competitive Markets {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Energy Demand: Short Run and Long Run Price and Income Elasticities {{< br >}}{{< br >}} Introduction to Multivariate Regression Analysis {{< br >}}{{< br >}}  |
-| 3 | Energy Supply and the Economics of Depletable Resources |
-| 4 | World Oil Markets and Energy Security |
-| 5 | Natural Gas Price Regulation, Deregulation and Markets |
-| 6 | Electricity |
-| 7 | Risk Management, Futures Markets and Derivatives |
-| 8 | Energy and Climate Change |
-| 9 | Internalizing Environmental Externalities with a Focus on CO2 Emissions Cap and Trade Mechanisms |
-| 10 | Coal |
-| 11 | Nuclear Power |
-| 12 | Energy Efficiency Policies |
-| 13 | Renewable Energy Policies
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Background
+
+Review of the Basics of Supply, Demand and Price Formation in Competitive Markets
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy Demand: Short Run and Long Run Price and Income Elasticities
+
+Introduction to Multivariate Regression Analysis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Supply and the Economics of Depletable Resources
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+World Oil Markets and Energy Security
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Natural Gas Price Regulation, Deregulation and Markets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Electricity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Risk Management, Futures Markets and Derivatives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Energy and Climate Change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Internalizing Environmental Externalities with a Focus on CO2 Emissions Cap and Trade Mechanisms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Coal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Power
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Efficiency Policies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Renewable Energy Policies
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
