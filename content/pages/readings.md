@@ -90,7 +90,7 @@ Introduction to Multivariate Regression Analysis
 
 \* Baughman, M., and P. Joskow. "The Effects of Fuel Prices on Residential Appliance Choice in the United States." _Land Economics_ 51, no. 1 (1975): 41-49.
 
-\* Hughes, J., C. Knittel, and D. Sperling. "Evidence of a Shift in the Short-Run Price Elasticity of Gasoline Demand." Center for the Study of Energy Markets, Working Paper 159 (2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nber.org/papers/w12530.pdf))
+\* Hughes, J., C. Knittel, and D. Sperling. "Evidence of a Shift in the Short-Run Price Elasticity of Gasoline Demand." Center for the Study of Energy Markets, Working Paper 159 (2006). ([PDF](https://www.nber.org/papers/w12530.pdf))
 
 \*\* Kamerschen D., and D. Porter. "The Demand for Residential, Industrial and Total Electricity, 1973-1998." _Energy Economics_ 26 (2004): 87-100.
 
@@ -98,7 +98,7 @@ Introduction to Multivariate Regression Analysis
 
 ### Introduction to Multivariate Regression Analysis
 
-\* Sykes, A. "An Introduction to Regression Analysis." Chicago Working Paper in Law and Economics No. 20 (October 1993). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/7a07/5776db74495a03ca38750513f331b80f687e.pdf))
+\* Sykes, A. "An Introduction to Regression Analysis." Chicago Working Paper in Law and Economics No. 20 (October 1993). ([PDF](https://pdfs.semanticscholar.org/7a07/5776db74495a03ca38750513f331b80f687e.pdf))
 
 Handout: Econometrics ([PDF]({{< baseurl >}}/resources/econometrics)) (Courtesy of Arthur Campbell. Used with permission.)
 
@@ -138,7 +138,7 @@ World Oil Markets and Energy Security
 {{< tdopen >}}
 
 
-\* Deffeyes, K. _Hubbert's Peak: The Impending World of Oil Shortage_. Princeton, NJ: Princeton University Press, 2001, chapter 1. ISBN: 0691116253. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.9 MB](http://press.princeton.edu/chapters/s7121.pdf))
+\* Deffeyes, K. _Hubbert's Peak: The Impending World of Oil Shortage_. Princeton, NJ: Princeton University Press, 2001, chapter 1. ISBN: 0691116253. ([PDF - 7.9 MB](http://press.princeton.edu/chapters/s7121.pdf))
 
 \* Lynch M. "The Pessimism About Petroleum Resources: Debunking the Hubbert Model (and Hubbert Modelers)." _Minerals and Energy - Raw Materials Report_ 18, no. 1 (2003): 1-18.
 
@@ -172,7 +172,7 @@ Natural Gas Price Regulation, Deregulation and Markets
 
 \* Leitzinger, J., and M. Collette. "A Retrospective Look at Wholesale Gas: Industry Restructuring." _Journal of Regulatory Economics_ 21, no. 1 (2002): 79-101.
 
-\* National Petroleum Council. "Balancing Natural Gas Policy: Fueling the Demands of a Growing Economy." Volume I: Summary of Findings and Recommendations (September 2003). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.9 MB](http://www.npc.org/reports/NG_Volume_1.pdf))
+\* National Petroleum Council. "Balancing Natural Gas Policy: Fueling the Demands of a Growing Economy." Volume I: Summary of Findings and Recommendations (September 2003). ([PDF - 3.9 MB](http://www.npc.org/reports/NG_Volume_1.pdf))
 
 \* Mazighi, A. "An Examination of the International Gas Trade." _OPEC Review_ 27, no. 4 (December 2003): 313.
 
@@ -200,7 +200,7 @@ Electricity
 
 \* Joskow, P., and E. Kahn. "Quantitative Analysis of Pricing Behavior in California's Electricity Market During the Summer 2000." _The Energy Journal_ 23, no. 4 (2002): 1-35.
 
-\* Joskow, P. "Incentive Regulation in Theory and Practice: Electricity Distribution and Transmission Networks." Working Paper (2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ksg.harvard.edu/hepg/Papers/Joskow_Incentive_2006.pdf))
+\* Joskow, P. "Incentive Regulation in Theory and Practice: Electricity Distribution and Transmission Networks." Working Paper (2006). ([PDF](http://www.ksg.harvard.edu/hepg/Papers/Joskow_Incentive_2006.pdf))
 
 \* ———. "Markets for Power in the United States: An Interim Assessment." _The Energy Journal_ 27, no. 1 (January 2006).
 
@@ -230,7 +230,7 @@ Risk Management, Futures Markets and Derivatives
 
 \* Mazighi, A. "The Efficiency of Natural Gas Futures Markets." _OPEC Review_ (2003).
 
-\*\* Herce, M., J. Parsons, and R. Ready. "Using Futures Prices to Filter Short-Term Volatility and Recover a Latent, Long-Term Price Series for Oil." MIT Center for Energy and Environmental Policy Research Working Paper 06-005 (April 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/ceepr/www/publications/workingpapers/2006-005.pdf))
+\*\* Herce, M., J. Parsons, and R. Ready. "Using Futures Prices to Filter Short-Term Volatility and Recover a Latent, Long-Term Price Series for Oil." MIT Center for Energy and Environmental Policy Research Working Paper 06-005 (April 2006). ([PDF](http://web.mit.edu/ceepr/www/publications/workingpapers/2006-005.pdf))
 
 \*\* Chinn, M., M. LeBlanc, and O. Coibion. "[The Predictive Content of Energy Futures: An Update on Petroleum, Natural Gas, Heating Oil and Gasoline](http://www.nber.org/papers/W11033)." National Bureau of Economic Research Working Paper 11033 (January 2005).
 
@@ -250,15 +250,15 @@ Energy and Climate Change
 
 \* Environmental Protection Agency. ["Trends in Greenhouse Gas Emissions."](https://www.epa.gov/ghgreporting/ghgrp-emissions-trends) 
 
-\* Intergovernmental Panel on Climate Change (IPCC). "Climate Change 2007: The Physical Science Basis: Summary for Policymakers" (February 2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-spm.pdf))
+\* Intergovernmental Panel on Climate Change (IPCC). "Climate Change 2007: The Physical Science Basis: Summary for Policymakers" (February 2007). ([PDF - 3.7 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-spm.pdf))
 
 \*"[Stern Review of the Economics of Climate Change](http://mudancasclimaticas.cptec.inpe.br/~rmclima/pdfs/destaques/sternreview_report_complete.pdf)." Pre-publication edition. London, UK: HM Treasury, October 2007 \[anticipated final publication\].
 
 \* Nordhaus, W. D. "The 'Stern Review' on the Economics of Climate Change." Mimeo (November 17, 2006).
 
-\* Sokolov, A. P., C. A. Schlosser, S. Dutkiewicz, S. Paltsev, D. W. Kicklighter, H. D. Jacoby, R. G. Prinn, C. E. Forest, J. Reilly, C. Wang, B. Felzer, M. C. Sarofim, J. Scott, P. H. Stone, J. M. Melillo, and J. Cohen. "The MIT Integrated Global System Model (IGSM) Version 2: Model Description and Baseline Evaluation." MIT Joint Program on the Science and Policy of Global Change, Report No. 124 (July 2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt124.pdf))
+\* Sokolov, A. P., C. A. Schlosser, S. Dutkiewicz, S. Paltsev, D. W. Kicklighter, H. D. Jacoby, R. G. Prinn, C. E. Forest, J. Reilly, C. Wang, B. Felzer, M. C. Sarofim, J. Scott, P. H. Stone, J. M. Melillo, and J. Cohen. "The MIT Integrated Global System Model (IGSM) Version 2: Model Description and Baseline Evaluation." MIT Joint Program on the Science and Policy of Global Change, Report No. 124 (July 2005). ([PDF - 1.5 MB](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt124.pdf))
 
-\* Paltsev, S., J. M. Reilly, H. D. Jacoby, R. S. Eckaus, J. McFarland, M. Sarofim, M. Asadoorian, and M. Babiker. "The MIT Emissions Prediction and Policy Analysis (EPPA) Model: Version 4." MIT Joint Program on the Science and Policy of Global Change, Report No. 125 (August 2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt125.pdf))
+\* Paltsev, S., J. M. Reilly, H. D. Jacoby, R. S. Eckaus, J. McFarland, M. Sarofim, M. Asadoorian, and M. Babiker. "The MIT Emissions Prediction and Policy Analysis (EPPA) Model: Version 4." MIT Joint Program on the Science and Policy of Global Change, Report No. 125 (August 2005). ([PDF - 1.8 MB](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt125.pdf))
 
 \*\* Mendelsohn, R., W. Nordhaus, and D. Shaw. "The Impact of Climate Change on U.S. Agriculture: A Ricardian Approach." _The American Economic Review_ 84, no. 4 (1994): 753-771.
 
@@ -352,7 +352,7 @@ Energy Efficiency Policies
 
 \* Portney, P., and I. Parry. "Policy Watch: The Economics of Fuel Economy Standards." _Journal of Economic Perspectives_ 17, no. 4 (2003): 203-217.
 
-\*\* Metcalf, G. "Energy Conservation in the United States: Understanding its Role in Climate Policy." MIT Joint Program on the Science and Policy of Global Change, Report No. 138 (2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt138.pdf))
+\*\* Metcalf, G. "Energy Conservation in the United States: Understanding its Role in Climate Policy." MIT Joint Program on the Science and Policy of Global Change, Report No. 138 (2006). ([PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt138.pdf))
 
 \*\*\* Newell, R., A. Jaffe, and R. Stavins. "The Induced Innovation Hypothesis and Energy-Saving Technological Change." _The Quarterly Journal of Economics_ 114, no. 3 (1999): 941-975.
 
